@@ -1,3 +1,4 @@
+# Ejercicios
 Hay un archivo en la raíz del proyecto llamado .gitignore.
 ¿Qué utilidad tiene?
 Es un archivo que nos permite ignorar ciertos archvios/directorios que le indiquemos para ser consierados como parte de la subida al repositorio
